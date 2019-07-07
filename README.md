@@ -1,7 +1,7 @@
-# All subjects of 42 School (Paris)
+# All subjects of 42 School
 
 __All these subjects are the exclusive property of 42 School.__<br />
-Any reproduction, use outside the school context of 42 or without authorization is prohibited and may be treated as copyright infringement.
+Any reproduction, use outside the school context of 42 or without authorization is prohibited and may be treated as copyright infringement. These have been forked from Binary-hackers, all links will head back that way too.
 
 __If you want to see corrections files for these projects, go [HERE](https://github.com/Binary-Hackers/42_Corrections).__
 
